@@ -1,0 +1,1 @@
+C++ is a very powerful language. C++ is also very fast.
