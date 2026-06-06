@@ -11,6 +11,7 @@ class InvertedIndex{
         std::vector<Document> documents;
     
     public:
-
+        void add_document(int doc_id, const std::string& text);
+        std::vector<int> search(const std::string& query);
 };
 
