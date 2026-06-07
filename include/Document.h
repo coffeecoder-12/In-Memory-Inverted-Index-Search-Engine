@@ -6,4 +6,4 @@ struct Document{
     private:
         int id;
         std::string path;
-}
+};

@@ -4,6 +4,9 @@
     <ClCompile Include="D:\Projects\In-Memory-Inverted-Index-Search-Engine\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\Projects\In-Memory-Inverted-Index-Search-Engine\src\InvertedIndex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\Projects\In-Memory-Inverted-Index-Search-Engine\CMakeLists.txt" />
